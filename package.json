@@ -1,0 +1,13 @@
+{
+    "name": "meindl",
+    "description": "Now I give it to Klaus",
+    "version": "0.0.1",
+    "author": "Matthias Witte",
+    "engine": [
+        "node >=0.1.90"
+    ],
+    "dependencies": {
+        "ws": "~0.4.32",
+        "say": "~0.6.0"
+    }
+}
